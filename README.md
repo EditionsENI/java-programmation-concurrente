@@ -6,3 +6,5 @@ Il y a deux projets:
 - invoice-web qui est une application web
 
 Ces deux projets sont réalisés en Maven, il faudra donc les importer comme tels dans votre IDE.
+
+![schéma de l'application](https://octodex.github.com/images/yaktocat.png)
