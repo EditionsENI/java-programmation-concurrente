@@ -7,4 +7,4 @@ Il y a deux projets:
 
 Ces deux projets sont réalisés en Maven, il faudra donc les importer comme tels dans votre IDE.
 
-![schéma de l'application](https://octodex.github.com/images/yaktocat.png)
+![schéma de l'application](https://github.com/EditionsENI/java-programmation-concurrente/blob/master/2019-03-29_15-29-09.png?raw=true)
