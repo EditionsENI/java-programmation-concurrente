@@ -1,4 +1,4 @@
-# java-programmation-concurrente
+# La programmation concurrente en Java
 Dépôt contenant les sources de la vidéo "La programmation concurrente en Java"
 
 Il y a deux projets:
