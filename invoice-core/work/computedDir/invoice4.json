@@ -1,0 +1,21 @@
+{
+	"customer": {
+		"name": "Darius"
+	},
+	"lines": [
+		{
+			"item": {
+				"name": "clous sans tete",
+				"unitPrice": 0.05
+			},
+			"quantity": 50
+		},
+		{
+			"item": {
+				"name": "tire-fond",
+				"unitPrice": 0.1
+			},
+			"quantity": 20
+		}
+	]
+}

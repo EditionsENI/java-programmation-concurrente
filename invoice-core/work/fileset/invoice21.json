@@ -1,0 +1,21 @@
+{
+	"customer": {
+		"name": "Eugene"
+	},
+	"lines": [
+		{
+			"item": {
+				"name": "boulon",
+				"unitPrice": 0.05
+			},
+			"quantity": 100
+		},
+		{
+			"item": {
+				"name": "ecrou",
+				"unitPrice": 0.1
+			},
+			"quantity": 100
+		}
+	]
+}

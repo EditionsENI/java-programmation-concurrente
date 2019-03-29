@@ -1,0 +1,28 @@
+{
+	"customer": {
+		"name": "Francoise"
+	},
+	"lines": [
+		{
+			"item": {
+				"name": "patte de scellement",
+				"unitPrice": 1
+			},
+			"quantity": 5
+		},
+		{
+			"item": {
+				"name": "passe fil",
+				"unitPrice": 6
+			},
+			"quantity": 3
+		},
+		{
+			"item": {
+				"name": "domino",
+				"unitPrice": 1
+			},
+			"quantity": 20
+		}
+	]
+}

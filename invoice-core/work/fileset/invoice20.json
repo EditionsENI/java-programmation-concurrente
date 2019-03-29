@@ -1,0 +1,14 @@
+{
+	"customer": {
+		"name": "Archibald"
+	},
+	"lines": [
+		{
+			"item": {
+				"name": "clou",
+				"unitPrice": 0.01
+			},
+			"quantity": 100
+		}
+	]
+}

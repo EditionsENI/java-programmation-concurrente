@@ -1,0 +1,14 @@
+{
+	"client": {
+		"name": "archibald"
+	},
+	"lignes": [
+		{
+			"item": {
+				"name": "clou",
+				"prixUnitaire": 0.01
+			},
+			"quantite": 100
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"customer": {
+		"name": "Cornelius"
+	},
+	"lines": [
+		{
+			"item": {
+				"name": "chevilles pour brique",
+				"unitPrice": 0.05
+			},
+			"quantity": 50
+		},
+		{
+			"item": {
+				"name": "vis placo",
+				"unitPrice": 0.01
+			},
+			"quantity": 1000
+		}
+	]
+}

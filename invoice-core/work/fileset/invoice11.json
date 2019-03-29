@@ -1,0 +1,21 @@
+{
+	"customer": {
+		"name": "Gaston"
+	},
+	"lines": [
+		{
+			"item": {
+				"name": "raccord cuivre 12",
+				"unitPrice": 3
+			},
+			"quantity": 2
+		},
+		{
+			"item": {
+				"name": "tube cuivre 12",
+				"unitPrice": 6
+			},
+			"quantity": 2
+		}
+	]
+}

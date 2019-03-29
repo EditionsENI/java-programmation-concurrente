@@ -1,0 +1,21 @@
+{
+	"customer": {
+		"name": "Barthelemy"
+	},
+	"lines": [
+		{
+			"item": {
+				"name": "vis",
+				"unitPrice": 0.05
+			},
+			"quantity": 50
+		},
+		{
+			"item": {
+				"name": "equerre",
+				"unitPrice": 1.00
+			},
+			"quantity": 25
+		}
+	]
+}
